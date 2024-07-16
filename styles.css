@@ -1,13 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
 h1 {
     color: crimson;
 }
 .work {
     line height: 4;
 }
-.a {
+.active {
     text-decoration-color: crimson;
 }
-.work {
-    line height: 0.5;
-    
+.working {
+    text-decoration-color: crimson;
+}
+.rsm {
+    text-decoration-color: crimson;
+}
+.tel {
+    text-decoration-color: crimson;
+}
+.about {
+    text-decoration-color: crimson;
+}
+.video {
+    align="center"
 }
